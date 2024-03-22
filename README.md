@@ -23,7 +23,7 @@
 ### Exemplos
 
 * LACERDA, Paulo Sérgio Pádua de et al. Projeto Prático de Redes de Computadores II. In: LACERDA, Paulo Sérgio Pádua de et al. Projeto de redes de computadores. Porto Alegre: SAGAH, 2022. p. 241-262. *E-book*.
-* [Exemplo da entrega da etapa 2 da turma 2023/2](pedrohenriquerodriguesdasilva_170424_9783568_Projeto - Segurança da Informação - Etapa 2.pdf).
+* [Exemplo da entrega da etapa 2 da turma 2023/2](./pedrohenriquerodriguesdasilva_170424_9783568_Projeto - Segurança da Informação - Etapa 2.pdf).
 
 ### Tutoriais
 * [Começando com o Cisco Packet Tracer](https://skillsforall.com/course/getting-started-cisco-packet-tracer?utm_source=netacad.com&utm_medium=referral&utm_campaign=packet-tracer&courseLang=pt-BR&userlogin=0&userlogin=0&userlogin=0)
