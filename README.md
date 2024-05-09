@@ -40,9 +40,6 @@
 
 * IMONIANA, Joshua Onome. Auditoria de sistemas de informação. 3. ed. São Paulo: Atlas, 2016. *E-book*. (caps. 15 e 16)
 
-### Tutoriais
-* [Começando com o Cisco Packet Tracer](https://skillsforall.com/course/getting-started-cisco-packet-tracer?utm_source=netacad.com&utm_medium=referral&utm_campaign=packet-tracer&courseLang=pt-BR&userlogin=0&userlogin=0&userlogin=0)
-
 
 ## Etapa 4: Apresentação de Projeto
 
